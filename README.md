@@ -1,6 +1,6 @@
 # mongodb
 
-run Mongodb container on your development machine
+setup Mongodb (as a container) on your development machine
 
 ### instruction
 
